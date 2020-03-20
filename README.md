@@ -1,1 +1,1 @@
-# ocb_agg_simulations
+Simulations for the paper, *What is the Critical Mass of Help? Resolving a Paradox on Citizenship and Organizational Performance*. This repository is anonymous as the paper is currently under review. 
