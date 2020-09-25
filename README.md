@@ -1,1 +1,1 @@
-Simulations for the paper, *What is the Critical Mass of Help? Resolving a Paradox on Citizenship and Organizational Performance*. This repository is anonymous as the paper is currently under review. 
+Simulations for the paper, *What is the critical mass of help? A potential resolution to a paradox on citizenship and organizational performance* by Christopher R. Dishop and Richard P. DeShon. 
